@@ -34,6 +34,13 @@ p{
 }
 .sns{
     gap: 0.5rem;
+    display: flex;
+}
+.sns img{
+    height: 1.2rem;
+}
+.mo{
+    display: none;
 }
 @media (max-width:1440px){
     html{
